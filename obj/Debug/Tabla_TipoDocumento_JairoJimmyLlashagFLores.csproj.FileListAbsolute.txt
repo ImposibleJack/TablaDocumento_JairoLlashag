@@ -1,0 +1,12 @@
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\bin\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.exe.config
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\bin\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.exe
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\bin\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.pdb
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.csproj.AssemblyReference.cache
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.csproj.SuggestedBindingRedirects.cache
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.Properties.Resources.resources
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.csproj.GenerateResource.cache
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.csproj.CoreCompileInputs.cache
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.exe
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.pdb
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.frmTipoDocumentoEdit.resources
+E:\SISE\Ciclo 3\Bloque 2\Desarrollo de soluciones empre\Semana 2\Tabla_TipoDocumento_JairoJimmyLlashagFLores\obj\Debug\Tabla_TipoDocumento_JairoJimmyLlashagFLores.frmTipoDocumento.resources
